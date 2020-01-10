@@ -1,12 +1,12 @@
 spring:
   profiles:
     active:
-      - dev-1.0     
+      - dev     
 ---
 server:
   port: 3355
 spring:
-  profiles: dev-1.0
+  profiles: dev
   application:
     name: microservicecloud-config-client
 eureka:
