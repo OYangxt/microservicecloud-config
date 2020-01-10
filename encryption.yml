@@ -1,0 +1,4 @@
+spring:
+    dataSource:
+      username: nice
+      password: '{cipher}77178d3e05269cedc4a98c4b812a11bcd78d9edd575e9ac35bb48145b936c201'
